@@ -8,5 +8,20 @@
     "question": "Pengaranng menuliskan nama kitab ini, di bait berapakah itu?",
     "options": ["15", "22", "10", "20"],
     "answer": "22"
+  },
+  {
+    "question": "Penjelasan tujuan penyebutan musnad pada bait berapa?",
+    "options": ["97", "22", "90", "92"],
+    "answer": "97"
+  },
+  {
+    "question": "Pengertian akan takhsis terdapat pada bait berapa?",
+    "options": ["120", "119", "11", "118"],
+    "answer": "118"
+  },
+  {
+    "question": "Pembagian takhsis terdapat pada bait berapa",
+    "options": ["120", "110", "11", "119"],
+    "answer": "119"
   }
 ]
