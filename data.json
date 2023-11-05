@@ -1,12 +1,12 @@
 [
   {
-    "question": "Apa ibukota Indonesia?",
-    "options": ["Jakarta", "Surabaya", "Bandung", "Medan"],
-    "answer": "Jakarta"
+    "question": "Alasan pengarang menggunakan bahar rojaz terdapat pada bait berapa?",
+    "options": ["5", "2", "3", "19"],
+    "answer": "19"
   },
   {
-    "question": "Siapa presiden pertama Indonesia?",
-    "options": ["Soekarno", "Soeharto", "Jokowi", "Megawati"],
-    "answer": "Soekarno"
+    "question": "Pengaranng menuliskan nama kitab ini, di bait berapakah itu?",
+    "options": ["15", "22", "10", "20"],
+    "answer": "22"
   }
 ]
