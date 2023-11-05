@@ -68,5 +68,10 @@
     "question": "Ada berapa pembagian ilmu bayan?",
     "options": ["3", "2", "1"],
     "answer": "3"
+  },
+  {
+    "question": "Sebutkan rukun-rukun tasybih!",
+    "options": ["Musyabbah, musyabbah bih, adat tasybih, wajah tasybih", "Wajah tasybih, adat tasybih", "Musyabbah, musyabbah bih, wajah tasybih"],
+    "answer": "Musyabbah, musyabbah bih, adat tasybih, wajah tasybih"
   }
 ]
