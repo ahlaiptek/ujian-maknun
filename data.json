@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Apa ibukota Indonesia?",
+    "options": ["Jakarta", "Surabaya", "Bandung", "Medan"],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "Siapa presiden pertama Indonesia?",
+    "options": ["Soekarno", "Soeharto", "Jokowi", "Megawati"],
+    "answer": "Soekarno"
+  }
+]
