@@ -48,5 +48,10 @@
     "question": "Tujuan ilmu bayan disebutkan pada bait berapa?",
     "options": ["13-24", "30", "22", "28"],
     "answer": "30"
+  },
+  {
+    "question": "Pembagian ilmu ma'ani terdapat pada bait berapa?",
+    "options": ["35-35", "35", "2", "32-34"],
+    "answer": "32-34"
   }
 ]
