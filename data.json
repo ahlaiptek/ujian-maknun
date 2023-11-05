@@ -33,5 +33,20 @@
     "question": "Doa pengarang terhadap kitab dan pembaca terdapat pada bait berapa?",
     "options": ["23-24", "22", "20", "25"],
     "answer": "23-24"
+  },
+  {
+    "question": "Tujuan ilmu balaghah disebutkan pada bait berapa?",
+    "options": ["23-24", "24", "22", "28"],
+    "answer": "28"
+  },
+  {
+    "question": "Tujuan ilmu ma'ani disebutkan pada bait berapa?",
+    "options": ["27", "21", "29", "28"],
+    "answer": "29"
+  },
+  {
+    "question": "Tujuan ilmu bayan disebutkan pada bait berapa?",
+    "options": ["13-24", "30", "22", "28"],
+    "answer": "30"
   }
 ]
