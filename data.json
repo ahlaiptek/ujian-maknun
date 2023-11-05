@@ -70,6 +70,11 @@
     "answer": "3"
   },
   {
+    "question": "Penjelasan mengenai talmih berada pada bait berapa?",
+    "options": ["271", "272", "273", "274"],
+    "answer": "273"
+  },
+  {
     "question": "Sebutkan rukun-rukun tasybih!",
     "options": ["Musyabbah, musyabbah bih, adat tasybih, wajah tasybih", "Wajah tasybih, adat tasybih", "Musyabbah, musyabbah bih, wajah tasybih"],
     "answer": "Musyabbah, musyabbah bih, adat tasybih, wajah tasybih"
