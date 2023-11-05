@@ -53,5 +53,10 @@
     "question": "Pembagian ilmu ma'ani terdapat pada bait berapa?",
     "options": ["35-35", "35", "2", "32-34"],
     "answer": "32-34"
+  },
+  {
+    "question": "Pengertian hakiki terdapat pada bait berapa?",
+    "options": ["170", "173", "175", "174"],
+    "answer": "174"
   }
 ]
