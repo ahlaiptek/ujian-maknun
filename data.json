@@ -58,5 +58,10 @@
     "question": "Pengertian hakiki terdapat pada bait berapa?",
     "options": ["170", "173", "175", "174"],
     "answer": "174"
+  },
+  {
+    "question": "Penjelasan mengenai istiarah terhadap pada bait berapa?",
+    "options": ["120", "183", "179", "182"],
+    "answer": "182"
   }
 ]
