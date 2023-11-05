@@ -83,5 +83,25 @@
     "question": "Menjadikan musnad sebagai mufrad sebab apa saja dan pada bait berapa?",
     "options": ["Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98", "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 99", "Bertujuan menguatkan hukum, dan bertujuan sababi. Terletak pada bait ke 98"],
     "answer": "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98"
+  },
+  {
+    "question": "Sebutkan pembagian qoshor musnad!",
+    "options": ["Qoshor mubalaghah dan sababi", "Qoshor tahkiki dan mubalaghah", "Qoshor tahkiki dan sababi", "Qoshor hakiki dan sababi"],
+    "answer": "Qoshor tahkiki dan mubalaghah"
+  },
+  {
+    "question": "Penjelasan qoshor musnad terdapat pada bait berapa?",
+    "options": ["20", "106", "107", "105"],
+    "answer": "107"
+  },
+  {
+    "question": "Musnad menjadi sublah disebabkan apa dan pada bait berapa?",
+    "options": ["Sebab sababi dan tujuan menguatkan. Pada bait ke 107", "Sebab sababi dan tujuan menguatkan. Pada bait ke 108", "Sebab sababi dan tidak bertujuan menguatkan. Pada bait ke 105", "Sebab menginakan dan tujuan menguatkan. Pada bait ke 107"],
+    "answer": "Sebab sababi dan tujuan menguatkan. Pada bait ke 107"
+  },
+  {
+    "question": "Naat dibagi menjadi berapa?",
+    "options": ["3", "1", "2"],
+    "answer": "2"
   }
 ]
