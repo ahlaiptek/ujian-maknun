@@ -78,5 +78,10 @@
     "question": "Sebutkan rukun-rukun tasybih!",
     "options": ["Musyabbah, musyabbah bih, adat tasybih, wajah tasybih", "Wajah tasybih, adat tasybih", "Musyabbah, musyabbah bih, wajah tasybih"],
     "answer": "Musyabbah, musyabbah bih, adat tasybih, wajah tasybih"
+  },
+  {
+    "question": "Menjadikan musnad sebagai mufrad sebab apa saja dan pada bait berapa?",
+    "options": ["Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98", "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 99", "Bertujuan menguatkan hukum, dan bertujuan sababi. Terletak pada bait ke 98"],
+    "answer": "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98"
   }
 ]
