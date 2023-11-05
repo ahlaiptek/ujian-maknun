@@ -63,5 +63,10 @@
     "question": "Penjelasan mengenai istiarah terhadap pada bait berapa?",
     "options": ["120", "183", "179", "182"],
     "answer": "182"
+  },
+  {
+    "question": "Ada berapa pembagian ilmu bayan?",
+    "options": ["3", "2", "1"],
+    "answer": "3"
   }
 ]
