@@ -115,8 +115,13 @@
     "answer": "1"
   },
   {
-    "question": "Fasl ma'mul-ma'mul yang berhubungan dengan fi'i terdiri dari berapa bait?",
+    "question": "Bab ma'mul-ma'mul yang berhubungan dengan fi'i terdiri dari berapa bait?",
     "options": ["2", "1", "3", "4", "5", "7"],
     "answer": "7"
+  },
+  {
+    "question": "Muqaddimah kitab ini terdiri dari berapa bait?",
+    "options": ["22", "23", "24"],
+    "answer": "24"
   }
 ]
