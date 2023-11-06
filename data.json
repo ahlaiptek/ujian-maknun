@@ -1,5 +1,25 @@
 [
   {
+    "question": "Tolong bacakan bab musnad ilaih!",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
+  {
+    "question": "Tolong bacakan bab musnad!",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
+  {
+    "question": "Tolong bacakan bab tasybih!",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
+  {
+    "question": "Tolong bacakan muqaddimah!",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
+  {
     "question": "Alasan pengarang menggunakan bahar rojaz terdapat pada bait berapa?",
     "options": ["5", "2", "3", "19"],
     "answer": "19"
