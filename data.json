@@ -100,6 +100,31 @@
     "answer": "Musyabbah, musyabbah bih, adat tasybih, wajah tasybih"
   },
   {
+    "question": "Apakah tasybih dan istiarah itu sama?",
+    "options": ["Iya", "Tidak"],
+    "answer": "Tidak"
+  },
+  {
+    "question": "Ada berapa pembagian tasybih?",
+    "options": ["1", "2", "3", "4", "5"],
+    "answer": "5"
+  },
+  {
+    "question": "Ada berapa pembagian istiarah?",
+    "options": ["1", "2", "3", "4", "5", "6", "7"],
+    "answer": "7"
+  },
+  {
+    "question": "Ada berapa pembagian istiarah berdasarkan qorinah?",
+    "options": ["1", "2", "3", "4", "5"],
+    "answer": "2"
+  },
+  {
+    "question": "Ada yang dimaksud istiarah makniyyah?",
+    "options": ["Adalah isti’arah yang disiratkan dengan musyabbah bih.", "Kalimat yang musyabbah bihnya dibuang lalu disiratkan dengan sesuatu dari salah satu sifatnya."],
+    "answer": "Kalimat yang musyabbah bihnya dibuang lalu disiratkan dengan sesuatu dari salah satu sifatnya."
+  },
+  {
     "question": "Menjadikan musnad sebagai mufrad sebab apa saja dan pada bait berapa?",
     "options": ["Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98", "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 99", "Bertujuan menguatkan hukum, dan bertujuan sababi. Terletak pada bait ke 98"],
     "answer": "Tidak bertujuan menguatkan hukum, dan tidak bertujuan sababi. Terletak pada bait ke 98"
