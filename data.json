@@ -153,5 +153,20 @@
     "question": "Sebutkan qorinah dalam majaz istiarah!",
     "options": ["Jama', ghairu jama'", "Mufrad, ghairu mufrad", "Jama', ma'dud", "Mufrad, ma'dud, muallaf"],
     "answer": "Mufrad, ma'dud, muallaf"
+  },
+  {
+    "question": "Bab kinayah terdiri dari berapa bait?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "question": "Ada berapa syarat istiarah dianggap baik?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "question": "Sebutkan syarat istiarah dianggap baik!",
+    "options": ["Tahkiki, dan mubalaghah", "Hakiki, dan sababi", "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau kinayah, wajah sabahnya jelas", "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau tasybih, wajah sabahnya jelas"],
+    "answer": "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau tasybih, wajah sabahnya jelas"
   }
 ]
