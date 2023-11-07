@@ -197,11 +197,16 @@
   },
   {
     "question": "Sebutkan syarat istiarah dianggap baik!",
-    "options": ["Tahkiki, dan mubalaghah", "Hakiki, dan sababi", "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau kinayah, wajah sabahnya jelas", "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau tasybih, wajah sabahnya jelas"],
+    "options": ["Tahkiki, dan mubalaghah", "Hakiki, dan sababi", "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau kinayah, wajah sabahnya jelas", "Menjaga sisi membuat tasybih baik, lafadznya dekat dari berbau tasybih, wajah sabahnya jelas"],
     "answer": "Menjaga sisi membuat tasybih baik, lafadznya jauh dari berbau tasybih, wajah sabahnya jelas"
   },
   {
     "question": "Dari segi kata pembentuknya, isti’arah dibagi menjadi ashliyyah dan taba’iyyah. Apakah ini benar?",
+    "options": ["Iya", "Tidak"],
+    "answer": "Iya"
+  },
+  {
+    "question": "Dari segi tanda, isti’arah dibagi menjadi murasysyahah, mujarradah, dan muthlaqah. Apakah ini benar?",
     "options": ["Iya", "Tidak"],
     "answer": "Iya"
   },
