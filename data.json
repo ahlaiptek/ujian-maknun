@@ -166,6 +166,11 @@
     "answer": "1"
   },
   {
+    "question": "Fasl isnad aqli terdiri dari berapa bait?",
+    "options": ["2", "1", "3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
     "question": "Bab ma'mul-ma'mul yang berhubungan dengan fi'i terdiri dari berapa bait?",
     "options": ["2", "1", "3", "4", "5", "7"],
     "answer": "7"
@@ -219,6 +224,8 @@
     "question": "Apabila pembentuk isti’arah berupa musytaq maka disebut istiarah apa dan apa qorinahnya?",
     "options": ["Ashliyyah dan makniyyah", "Taba’iyyah dan makniyath", "Ashliyyah dan tasrihiyat"],
     "answer": "Taba’iyyah dan makniyath"
-  }
+  },
+  
+
 ]
 
